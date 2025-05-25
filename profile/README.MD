@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/maratwc/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Wix-Development/count.svg?"  />
 </div>
 
 ###
@@ -35,16 +35,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maratwc/maratwc/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maratwc/maratwc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maratwc/maratwc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maratwc/maratwc/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wix-Development/Wix-Development/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wix-Development/Wix-Development/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wix-Development/Wix-Development/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
