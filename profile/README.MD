@@ -15,12 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Wix-Development/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -42,3 +36,4 @@
 </div>
 
 ###
+
